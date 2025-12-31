@@ -1,0 +1,32 @@
+# Porter Robinson – Years Of War
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:36.92] Take one last look at what you're leaving behind, 'cause there's no
+[00:42.71] Coming back once we go
+[00:45.75] We are the children of an innocent crime, and its time
+[00:51.24] To take down the throne
+[01:02.74] 
+[00:54.58] Although our hands may shake
+[00:56.85] We'll set the city ablaze for their treachery
+[01:02.99] We'll spill their blood and set our fathers free
+[01:26.99] 
+[01:10.92] Ooooh
+[01:13.79] Two hundred years of war
+[01:18.24] Fight 'til we are no more
+[01:22.58] A curse on the streets of gold, ooh, ooh
+[01:42.58] 
+[01:28.55] Just know
+[01:31.03] That mine is the hand to hold
+[01:35.27] Take back what the kingdom stole
+[01:39.97] A curse on the streets of gold
+[02:21.25] Ooooh
+[02:23.67] Two hundred years of war
+[02:27.97] Fight 'til we are no more
+[02:32.15] A curse on the streets of gold, ooh, ooh
+[02:38.36] Just know
+[02:40.92] That mine is a hand to hold
+[02:45.19] Take back what the kingdom stole
+[02:49.73] A curse on the streets of gold
+```
