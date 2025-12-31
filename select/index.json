@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Years Of War",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-31T12:38:34.183004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Years of War",
+      "artist": "Porter Robinson feat. Breanne Duren & Sean Caskey",
+      "has_synced": true,
+      "path": "select/01_Years_of_War_Porter_Robinson_feat._Breanne_Duren_&_Sean_Caskey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Years Of War",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/02_Years_Of_War_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Years of War (feat. Breanne Duren & Sean Caskey)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/03_Years_of_War_(feat._Breanne_Duren_&_Sean_Caskey)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Years of War (Rob Mayth Remix)",
+      "artist": "Porter Robinson feat. Breanne Duren & Sean Caskey",
+      "has_synced": true,
+      "path": "select/04_Years_of_War_(Rob_Mayth_Remix)_Porter_Robinson_feat._Breanne_Duren_&_Sean_Caskey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Years Of War (Rob Mayth Remix)",
+      "artist": "Porter Robinson, Breanne Duren, Sean Caskey",
+      "has_synced": true,
+      "path": "select/05_Years_Of_War_(Rob_Mayth_Remix)_Porter_Robinson,_Breanne_Duren,_Sean_Caskey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Years Of War (Rob Mayth Remix)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/06_Years_Of_War_(Rob_Mayth_Remix)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "100 Years of War",
+      "artist": "Laura Jane Grace",
+      "has_synced": false,
+      "path": "select/07_100_Years_of_War_Laura_Jane_Grace.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Years of War feat. Breanne Düren",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/08_Years_of_War_feat._Breanne_Düren_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Years of War",
+      "artist": "Porter Robinson feat. Breanne Düren",
+      "has_synced": true,
+      "path": "select/09_Years_of_War_Porter_Robinson_feat._Breanne_Düren.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Years of War (ft. Breanne Düren & Sean Caskey)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/10_Years_of_War_(ft._Breanne_Düren_&_Sean_Caskey)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Years Of War",
+      "artist": "Porter Robinson, Breanne Duren, Sean Caskey",
+      "has_synced": true,
+      "path": "select/11_Years_Of_War_Porter_Robinson,_Breanne_Duren,_Sean_Caskey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Years of War",
+      "artist": "Porter Robinson feat. Breanne Düren & Sean Thomas Caskey",
+      "has_synced": true,
+      "path": "select/12_Years_of_War_Porter_Robinson_feat._Breanne_Düren_&_Sean_Thomas_Caskey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Thousand Years Of War",
+      "artist": "Authority Zero",
+      "has_synced": false,
+      "path": "select/13_A_Thousand_Years_Of_War_Authority_Zero.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Years Of War (ft. Breanne Düren) (Rob Mayth Remix)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/14_Years_Of_War_(ft._Breanne_Düren)_(Rob_Mayth_Remix)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Years Of War",
+      "artist": "Porter Robinson ft. Breanne Duren & Sean Caskey",
+      "has_synced": true,
+      "path": "select/15_Years_Of_War_Porter_Robinson_ft._Breanne_Duren_&_Sean_Caskey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Years Of War (feat. Breanne Düren",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/16_Years_Of_War_(feat._Breanne_Düren_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "100 Years of War",
+      "artist": "Tom Gabel",
+      "has_synced": true,
+      "path": "select/17_100_Years_of_War_Tom_Gabel.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "100 Years Of War - Tom Gabel",
+      "artist": "Against Me!",
+      "has_synced": true,
+      "path": "select/18_100_Years_Of_War_-_Tom_Gabel_Against_Me!.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Years Of War (Rob Mayth Remix) (feat. Breanne Düren/Sean Caskey)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/19_Years_Of_War_(Rob_Mayth_Remix)_(feat._Breanne_Düren_Sean_Caskey)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Years Of War (ft. Breanne Düren)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/20_Years_Of_War_(ft._Breanne_Düren)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Years Of War",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Years_Of_War_Porter_Robinson.txt"
+    }
+  ]
+}
